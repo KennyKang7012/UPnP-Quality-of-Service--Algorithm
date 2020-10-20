@@ -1,1 +1,1 @@
-# UPnP-Quality-of-Service--Algorithm
+# UPnP-Quality-of-Service-Algorithm
